@@ -2,6 +2,7 @@
 
 | Date | Movie |
 |------|-------|
+| 7/22/17 | Captain Fantastic |
 | 4/23/17 | Lunchbox | 
 | 3/25/17 | Biutiful |
 | 2/11/17 | Whiplash |
