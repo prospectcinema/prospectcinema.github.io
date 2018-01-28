@@ -2,6 +2,7 @@
 
 | Date | Movie |
 |------|-------|
+| 1/13/18 | A Man Called Ove |
 | 7/22/17 | Captain Fantastic |
 | 4/23/17 | Lunchbox | 
 | 3/25/17 | Biutiful |
