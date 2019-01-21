@@ -2,6 +2,7 @@
 
 | Date | Movie |
 |------|-------|
+| 1/5/19  | Foxtrot |
 | 2/24/18 | White Ribbon |
 | 1/13/18 | A Man Called Ove |
 | 7/22/17 | Captain Fantastic |
