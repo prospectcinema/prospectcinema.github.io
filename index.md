@@ -2,6 +2,7 @@
 
 | Date | Movie |
 |------|-------|
+| 1/26/19 | Departures |
 | 1/5/19  | Foxtrot |
 | 2/24/18 | White Ribbon |
 | 1/13/18 | A Man Called Ove |
