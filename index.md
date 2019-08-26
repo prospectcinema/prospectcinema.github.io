@@ -2,6 +2,7 @@
 
 | Date | Movie |
 |------|-------|
+| 3/16/19 | Shoplifters |
 | 1/26/19 | Departures |
 | 1/5/19  | Foxtrot |
 | 2/24/18 | White Ribbon |
